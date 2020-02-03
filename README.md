@@ -1,2 +1,0 @@
-# reactjs-mongodb
- reactjs-mongodb
